@@ -6,6 +6,7 @@ Olá, eu sou o Covex Sec, hacker e especialista em cibersegurança!
   <img align="center" alt="Covex-Arch_Linux" height="30" width="40" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
   <img align="center" alt="Covex-RedHat" height="30" width="40" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
 </div>
+
 ##
 
 <div style="display: inline_block"><br>
