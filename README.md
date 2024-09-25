@@ -13,8 +13,8 @@
   <img align="center" alt="Covex-C##" height="35" width="65" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="Covex-.Net" height="35" width="65" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img align="center" alt="Covex-Lua" height="35" width="65" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
-  <img align="center" alt="Covex-Metasploit" height="35" width="65" src="https://img.shields.io/badge/Metasploit-4000ff?style=for-the-badge&logo=metasploit&logoColor=white">
-  <img align="center" alt="Covex-Wireshark" height="35" width="65" src="https://img.shields.io/badge/Wireshark-007ACC?style=for-the-badge&logo=wireshark&logoColor=white">
+  <img align="center" alt="Covex-Metasploit" height="35" width="80" src="https://img.shields.io/badge/Metasploit-4000ff?style=for-the-badge&logo=metasploit&logoColor=white">
+  <img align="center" alt="Covex-Wireshark" height="35" width="80" src="https://img.shields.io/badge/Wireshark-007ACC?style=for-the-badge&logo=wireshark&logoColor=white">
 </div>
 
 ##
