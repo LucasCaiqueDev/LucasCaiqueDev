@@ -1,4 +1,4 @@
-### Hey you! I'm Lucas! 👋
+### Hey you! I'm Lucas Caique Dev! 👋
 #### Welcome!
 
 👨‍💻 I'm a Software Engineer (Estudante) with a passion for problem solving and technology. I'm currently focusing on Backend Development with Java and Python, and I'm very excited about creating APIs and efficient systems. I'm always eager to learn and apply what I've learned in practical projects. 🚀
